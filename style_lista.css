@@ -1,0 +1,6 @@
+body{
+    background-color: darkcyan;
+    font-weight: 900;
+    position: absolute;
+    transform: translate(130%, 50%);
+}
